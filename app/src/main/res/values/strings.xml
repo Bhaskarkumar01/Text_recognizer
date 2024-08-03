@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">textrecogniser</string>
+    <string name="capture">CAPTURE</string>
+    <string name="detect">DETECT</string>
+    <string name="text_recongnizer">    TEXT RECOGNIZER APP</string>
+
+</resources>
